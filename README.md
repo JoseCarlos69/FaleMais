@@ -24,6 +24,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
+### Web
+
+![WebFaleMais](/frontend/public/Web-gif.gif)
+
+
+
 ## 🚀 Como rodar este projeto
 
 Podemos considerar este projeto como sendo divido em duas partes:
