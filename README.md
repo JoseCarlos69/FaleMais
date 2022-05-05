@@ -1,4 +1,4 @@
-![logo](.frontend/public/logo.png)
+![logo](/frontend/public/logo.png)
 
 
 ## 💻 Sobre
