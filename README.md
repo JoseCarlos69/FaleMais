@@ -17,7 +17,6 @@ Na construção desse projeto foi utilizado orientação a objetos com Javascrip
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo][expo]
 - [Node.js][nodejs]
 - [React][reactjs]
 - [React Native][rn]
